@@ -11,4 +11,3 @@ print('Contem espaço?', n.isspace())
 print('a palavras contem primeira letra em maiusculo?', n.istitle())
 print('Esta tudo em maiusculo?', n.isupper())
 print('É tudo letras?', n.isascii())
-

@@ -6,4 +6,4 @@ n4 = str(input('Digite o Quarto e ultimo nome: '))
 lista = [n1, n2, n3, n4]
 random.shuffle(lista)
 print("Ordem de Apresentação")
-print(random.sample(list))
+print(lista)
