@@ -1,4 +1,4 @@
-#usando import modulo individua
+#Usando metodo->'import' modulo math 
 from math import sqrt
 num = int(input('Digite um numero: '))
 raiz = sqrt(num)
