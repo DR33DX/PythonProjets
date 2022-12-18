@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="991c5a05-67f5-462f-b717-998751c1ad35" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Exercicios/exe029.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios/exe031.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/PythonProjets.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios/.idea/Exercicios.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios/exe017.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios/exe017.py" afterDir="false" />
-    </list>
+    <list default="true" id="991c5a05-67f5-462f-b717-998751c1ad35" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
