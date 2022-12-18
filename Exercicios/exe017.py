@@ -1,4 +1,5 @@
-'''import math
+'''PRIMEIRA TENTATIVA
+import math
 co = float(input('Digite o valor do Cateto Oposto: '))
 ca = float(input('Digite o valor do Cateto Adjacente: '))
 hi = math.pow(ca, co)
