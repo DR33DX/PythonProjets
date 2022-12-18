@@ -6,7 +6,6 @@ print("o valor do Cateto Oposto é: {}".format(co))
 print("o valor do Cateto Adjacente é: {}".format(ca))
 print("o valor da hipotenusa é: ", math.pow(co, ca))'''
 #FORMA SIMPLES SEM MODULOS
-import math
 co = float(input('Comprimento do Cateto Oposto: '))
 ca = float(input('Comprimento do Cateto Adjascente: '))
 hi = (co ** 2 + ca ** 2) ** (1/2)
